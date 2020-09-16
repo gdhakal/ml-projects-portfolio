@@ -2,7 +2,7 @@
 
 ## Capstone Project
 
-[Automated Image Caption Generator to Assist the Visually Impaired](#capstone-project/caption-generator-model)
+[Automated Image Caption Generator to Assist the Visually Impaired](/capstone-project/caption-generator-model)
 
 ## Mini Projects
 
