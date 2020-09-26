@@ -27,3 +27,5 @@ Use VIzWiz dataset that contains images taken by blind people: https://vizwiz.or
 
 ## References
 - https://www.ibm.com/blogs/research/2020/07/image-captioning-assistive-technology/
+- https://web.stanford.edu/class/cs224n/reports/custom/report27.pdf
+- https://github.com/husthuaan/AoANet
