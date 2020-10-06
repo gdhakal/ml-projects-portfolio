@@ -1,14 +1,11 @@
-# Data Collection
+# Set up
 
-### VizWiz-Captions dataset
+1) Download the Annotations dataset from [vizwiz.org](https://vizwiz.org/tasks-and-datasets/image-captioning/).
+- `test.json`
+- `train.json`
+- `val.json`
 
-Source: https://vizwiz.org/tasks-and-datasets/image-captioning/
+2) Create folder structure as follows at [location](capstone-project/caption-generator-model) 
 
-The VizWiz-Captions dataset includes:
-
-- 23,431 training images
-- 117,155 training captions
-- 7,750 validation images
-- 38,750 validation captions
-- 8,000 test images
-- 40,000 test captions
+- data/annotations/: The notebook reads `test.json`, `train.json`, and `val.json` data from this location. 
+- data/output/: The notebook outputs csv files at this location.
