@@ -5,7 +5,7 @@
 - `train.json`
 - `val.json`
 
-2) Create folder structure as follows at [location](capstone-project/caption-generator-model) 
+2) Create folder structure as follows at [this location](../data_exploration).
 
 - `data`/`annotations`/: Read `test.json`, `train.json`, and `val.json` data from this location. 
 - `data`/`output`/: Output csv files at this location.
