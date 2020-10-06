@@ -7,5 +7,5 @@
 
 2) Create folder structure as follows at [location](capstone-project/caption-generator-model) 
 
-- data/annotations/: The notebook reads `test.json`, `train.json`, and `val.json` data from this location. 
-- data/output/: The notebook outputs csv files at this location.
+- `data`/`annotations`/: Read `test.json`, `train.json`, and `val.json` data from this location. 
+- `data`/`output`/: Output csv files at this location.
